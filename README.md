@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raushan Kumar Yadav</h1>
-<h3 align="center">A passionate Full-Stack Web developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*NgUtI3tYLhuq5Vy0.gif">
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/er_raushan_" target="blank"><img src="https://img.shields.io/twitter/follow/er_raushan_?logo=twitter&style=for-the-badge" alt="er_raushan_" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **GenAI**
 
-- 💬 Ask me about **MEARN STACK**
+- 💬 Ask me about **Data Analysis**
 
 - 📫 How to reach me **raushankumaryadav112@gmail.com**
 
